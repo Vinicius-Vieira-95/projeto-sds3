@@ -1,7 +1,7 @@
 # Sistema analises de vendas
 
 # Sobre o projeto
-Esse projeto está sendo realizado na semana Spring React da DevSuperior, onde está sendo construido um sistema de analizes de vendas. Utilizando Java, Spring-boot, TypeScript,
+Esse projeto está sendo realizado na semana Spring React da DevSuperior, onde está sendo construido um sistema de analises de vendas. Utilizando Java, Spring-boot, TypeScript,
 CSS, HTML, JS.
 
 # Layout web
