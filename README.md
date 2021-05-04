@@ -17,7 +17,7 @@ CSS, HTML, JS.
 - JPA
 
 ## frontend
-- TypeScrip / CSS / HTML / js
+- TypeScrip / CSS / HTML
 - BootsTrap
 - ReactJS
 
