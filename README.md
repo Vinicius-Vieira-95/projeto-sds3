@@ -1,11 +1,15 @@
 # Sistema analises de vendas
 
 # Sobre o projeto
-Esse projeto está sendo realizado na semana Spring React da DevSuperior, onde está sendo construido um sistema de analises de vendas. Utilizando Java, Spring-boot, TypeScript,
-CSS, HTML, JS.
+DSVendas é uma aplicação full stack desenvolvida na semana DevSuperiro (SDS3), evento organizado pela DevSuperior.
+
+A aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring-Boot.
 
 # Layout web
 ![grafico-vendas](https://github.com/Vinicius-Vieira-95/imagens-figuras/blob/main/img2.png)
+
+# Modelo conceitual
+![grafico-vendas](https://github.com/Vinicius-Vieira-95/imagens-figuras/blob/main/modelodeDadosSDS3.png)
 
 # Tecnologias utilizadas
 
@@ -22,8 +26,13 @@ CSS, HTML, JS.
 - ReactJS
 
 ## Implatação em produção
-- frontend web: Netlify
-
+- Frontend web: Netlify
+- Backend : Heroku
+- Banco de dados: PostgresSQL
 
 # Autor
-Vinicius Vieira Carneiro
+Vinicius Vieira Carneiro.
+
+Linkedin: https://www.linkedin.com/in/vinicius-vieira-46391011a/
+
+Gmail: vinicius.95vieira00@gmail.com
