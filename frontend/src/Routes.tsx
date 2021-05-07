@@ -1,6 +1,6 @@
 import {BrowserRouter, Route, Switch } from 'react-router-dom';
-import Dashboard from './pages/Dashboard';
 import Home from './pages/Home';
+import DashBoard from './pages/Dashboard';
 
 function Routes() {
     return (
@@ -11,7 +11,7 @@ function Routes() {
                 </Route>
 
                 <Route path= "/dashboard">
-                    <Dashboard /> 
+                    <DashBoard /> 
                 </Route>
 
 
